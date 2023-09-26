@@ -35,6 +35,12 @@ h1{
     background-color: white;
     width: 900px;
     margin: 0 auto;
+    
+    
+}
+main{
+    background-color: #f6f8f9;
+    padding: 50px;;
 }
 
 /* /contenitore */
